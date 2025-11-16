@@ -36,6 +36,14 @@ Inclui uma **CLI minimalista**, **página web de preview** e **API REST** para n
 
 Interface web moderna e interativa para visualizar todos os ícones da coleção.
 
+<div align="center">
+  
+![Preview da Página Web](./assets/site_preview.png)
+
+*Interface web com busca, filtros e visualização de ícones*
+
+</div>
+
 ### ✨ Funcionalidades
 
 - 🔍 **Busca em tempo real** - Pesquise ícones por nome ou categoria
@@ -121,6 +129,14 @@ GET http://localhost:3000/api/icons
 
 Interface simples para navegar, listar e buscar ícones direto do terminal.
 
+<div align="center">
+  
+
+
+*Ferramenta de linha de comando para gerenciar ícones*
+
+</div>
+
 > [!IMPORTANT]
 > A CLI ainda **não foi publicada no npm**.
 > Pode ser usada localmente via `npx` ou `npm link`.
@@ -165,21 +181,20 @@ icons
 ### 📚 Comandos Disponíveis
 
 ```bash
-# Mostrar ajuda
+
 icons --help
 
-# Listar todas as categorias
+
 icons list
 
-# Listar ícones de uma categoria específica
 icons list Action
 icons list Apps
 
-# Buscar ícones por nome
+
 icons search check
 icons search chrome
 
-# Buscar com caminho completo
+
 icons search check --full
 ```
 
@@ -189,16 +204,14 @@ icons search check --full
 ### 🔧 Desenvolvimento da CLI
 
 ```bash
-# Entrar na pasta da CLI
-cd cli
 
-# Instalar dependências
+cd cli
 npm install
 
-# Compilar TypeScript
+
 npm run build
 
-# Executar
+
 npm start
 ```
 
@@ -214,6 +227,7 @@ O script `scripts/generate-json.sh` gera automaticamente o arquivo `Json/icons.j
 # Executar o script
 bash scripts/generate-json.sh
 ```
+![Preview do Script](./assets/script_preview.png)
 
 O script:
 - Escaneia todas as pastas em `/static`
