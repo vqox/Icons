@@ -16,17 +16,6 @@ Inclui uma **CLI minimalista**, **página web de preview** e **API REST** para n
 
 ---
 
-## 🔍 Prévia
-
-<div align="center">
-<p>
-  <img src="./static/Action/Action - Check.png" width="48px">
-  <img src="./static/Apps/Apps - Chrome.png" width="48px">
-  <img src="./animated/search.gif" width="48px">
-  <img src="./animated/refreshing.gif" width="48px">
-</p>
-</div>
-
 > [!NOTE]
 > A coleção completa está em `/static`, `/animated` e também acessível via CLI, página web e API.
 
@@ -420,3 +409,4 @@ Se este projeto foi útil para você, considere:
 
 
 </div>
+
