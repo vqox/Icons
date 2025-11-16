@@ -1,1 +1,221 @@
-{}
+{
+  "static": {
+    "Action": [
+      "static/Action/Action - Add.png",
+      "static/Action/Action - Check.png",
+      "static/Action/Action - Info.png",
+      "static/Action/Action - Question.png",
+      "static/Action/Action - Remove.png",
+      "static/Action/Action - Warning.png",
+      "static/Action/Action - X.png"
+    ],
+    "Apps": [
+      "static/Apps/Apps - Chrome.png",
+      "static/Apps/Apps - Discord.png",
+      "static/Apps/Apps - Figma.png",
+      "static/Apps/Apps - Github.png",
+      "static/Apps/Apps - Instagram.png",
+      "static/Apps/Apps - Pinterest.png",
+      "static/Apps/Apps - Spotify.png",
+      "static/Apps/Apps - Twitch.png",
+      "static/Apps/Apps - Vscode.png",
+      "static/Apps/Apps - X.png",
+      "static/Apps/Apps - Youtube.png"
+    ],
+    "Arrow": [
+      "static/Arrow/Arrow - Down.png",
+      "static/Arrow/Arrow - DownLeft.png",
+      "static/Arrow/Arrow - DownRight.png",
+      "static/Arrow/Arrow - Left.png",
+      "static/Arrow/Arrow - Right.png",
+      "static/Arrow/Arrow - Up.png",
+      "static/Arrow/Arrow - UpLeft.png",
+      "static/Arrow/Arrow - UpRight.png"
+    ],
+    "Battery": [
+      "static/Battery/Battery - Add.png",
+      "static/Battery/Battery - Check.png",
+      "static/Battery/Battery - Empty.png",
+      "static/Battery/Battery - High.png",
+      "static/Battery/Battery - Low.png",
+      "static/Battery/Battery - Medium.png",
+      "static/Battery/Battery - Remove.png",
+      "static/Battery/Battery - X.png"
+    ],
+    "Bell": [
+      "static/Bell/Bell - Add.png",
+      "static/Bell/Bell - Check.png",
+      "static/Bell/Bell - Off.png",
+      "static/Bell/Bell - Remove.png",
+      "static/Bell/Bell - X.png",
+      "static/Bell/Bell.png"
+    ],
+    "Book": [
+      "static/Book/Book - Add.png",
+      "static/Book/Book - Check.png",
+      "static/Book/Book - Remove.png",
+      "static/Book/Book - X.png",
+      "static/Book/Book.png"
+    ],
+    "Calendar": [
+      "static/Calendar/Calendar - Add.png",
+      "static/Calendar/Calendar - Check.png",
+      "static/Calendar/Calendar - Remove.png",
+      "static/Calendar/Calendar - X.png",
+      "static/Calendar/Calendar.png"
+    ],
+    "Clipboard": [
+      "static/Clipboard/Clipboard - Add.png",
+      "static/Clipboard/Clipboard - Check.png",
+      "static/Clipboard/Clipboard - Clipboards.png",
+      "static/Clipboard/Clipboard - Remove.png",
+      "static/Clipboard/Clipboard - X.png",
+      "static/Clipboard/Clipboard.png"
+    ],
+    "Clock": [
+      "static/Clock/Clock - Add.png",
+      "static/Clock/Clock - Check.png",
+      "static/Clock/Clock - Remove.png",
+      "static/Clock/Clock - X.png",
+      "static/Clock/Clock.png"
+    ],
+    "Cloud": [
+      "static/Cloud/Cloud - Add.png",
+      "static/Cloud/Cloud - Check.png",
+      "static/Cloud/Cloud - Remove.png",
+      "static/Cloud/Cloud - X.png",
+      "static/Cloud/Cloud.png"
+    ],
+    "Database": [
+      "static/Database/Database - Add.png",
+      "static/Database/Database - Check.png",
+      "static/Database/Database - Remove.png",
+      "static/Database/Database - X.png",
+      "static/Database/Database.png"
+    ],
+    "Dev": [
+      "static/Dev/Dev - Bun.png",
+      "static/Dev/Dev - Javascript.png",
+      "static/Dev/Dev - Nodejs.png",
+      "static/Dev/Dev - Pnpm.png",
+      "static/Dev/Dev - Typescript.png",
+      "static/Dev/Dev - Yarn.png"
+    ],
+    "Device": [
+      "static/Device/Device - Desktop.png",
+      "static/Device/Device - Mobile.png",
+      "static/Device/Device - Tablet.png"
+    ],
+    "File": [
+      "static/File/File - Add.png",
+      "static/File/File - Check.png",
+      "static/File/File - Files.png",
+      "static/File/File - Remove.png",
+      "static/File/File - X.png",
+      "static/File/File.png"
+    ],
+    "Folder": [
+      "static/Folder/Folder  - Add.png",
+      "static/Folder/Folder - Open.png",
+      "static/Folder/Folder - Remove.png",
+      "static/Folder/Folder.png"
+    ],
+    "Location": [
+      "static/Location/Location - Add.png",
+      "static/Location/Location - Check.png",
+      "static/Location/Location - Off.png",
+      "static/Location/Location - Remove.png",
+      "static/Location/Location - X.png",
+      "static/Location/Location.png"
+    ],
+    "Lock": [
+      "static/Lock/Lock - Add.png",
+      "static/Lock/Lock - Check.png",
+      "static/Lock/Lock - Remove.png",
+      "static/Lock/Lock - X.png",
+      "static/Lock/Lock.png"
+    ],
+    "Mail": [
+      "static/Mail/Mail - Add.png",
+      "static/Mail/Mail - Check.png",
+      "static/Mail/Mail - Mails.png",
+      "static/Mail/Mail - Remove.png",
+      "static/Mail/Mail - X.png",
+      "static/Mail/Mail.png"
+    ],
+    "Number": [
+      "static/Number/Number - Eight.png",
+      "static/Number/Number - Five.png",
+      "static/Number/Number - Four.png",
+      "static/Number/Number - Nine.png",
+      "static/Number/Number - One.png",
+      "static/Number/Number - Seven.png",
+      "static/Number/Number - Six.png",
+      "static/Number/Number - Three.png",
+      "static/Number/Number - Two.png",
+      "static/Number/Number - Zero.png"
+    ],
+    "Other": [
+      "static/Other/Other - AcademyCap.png",
+      "static/Other/Other - Bank.png",
+      "static/Other/Other - Bot.png",
+      "static/Other/Other - Brain.png",
+      "static/Other/Other - Bug.png",
+      "static/Other/Other - Card.png",
+      "static/Other/Other - Dollar.png",
+      "static/Other/Other - Home.png",
+      "static/Other/Other - Key.png",
+      "static/Other/Other - Megaphone.png",
+      "static/Other/Other - Save.png",
+      "static/Other/Other - Terminal.png",
+      "static/Other/Other - Ticket.png",
+      "static/Other/Other - Wallet.png"
+    ],
+    "Search": [
+      "static/Search/Search - Add.png",
+      "static/Search/Search - Check.png",
+      "static/Search/Search - Remove.png",
+      "static/Search/Search - X.png",
+      "static/Search/Search.png"
+    ],
+    "Shield": [
+      "static/Shield/Shield - Add.png",
+      "static/Shield/Shield - Check.png",
+      "static/Shield/Shield - Remove.png",
+      "static/Shield/Shield - X.png",
+      "static/Shield/Shield.png"
+    ],
+    "Unlock": [
+      "static/Unlock/Unlock - Add.png",
+      "static/Unlock/Unlock - Check.png",
+      "static/Unlock/Unlock - Remove.png",
+      "static/Unlock/Unlock - X.png",
+      "static/Unlock/Unlock.png"
+    ],
+    "User": [
+      "static/User/User - Add.png",
+      "static/User/User - Check.png",
+      "static/User/User - Remove.png",
+      "static/User/User - Users.png",
+      "static/User/User - X.png",
+      "static/User/User.png"
+    ]
+  },
+  "animated": [
+    "animated/alert.gif",
+    "animated/analytics.gif",
+    "animated/arrow.gif",
+    "animated/celebration.gif",
+    "animated/check.gif",
+    "animated/clock.gif",
+    "animated/cross.gif",
+    "animated/dots.gif",
+    "animated/folder.gif",
+    "animated/graphs.gif",
+    "animated/refresh.gif",
+    "animated/refreshing.gif",
+    "animated/search.gif",
+    "animated/settings.gif",
+    "animated/spinning.gif"
+  ]
+}
