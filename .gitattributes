@@ -1,2 +1,4 @@
 * linguist-vendored=false
 * linguist-detectable=true
+*.json linguist-detectable=false
+*.json linguist-vendored=true
